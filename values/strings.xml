@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CalcuDI</string>
+    <string name="BotonFormulario">Formulario</string>
+    <string name="tv1">Primer Activity</string>
+    <string name="BotonIniciar">Iniciar Juego</string>
+    <string name="tv2">Segundo Activity</string>
+    <string name="pregunta_derivada">Cual es la derivada de:</string>
+    <string name="integral">Integral</string>
+    <string name="diferencial">Diferencial</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="modos_de_juego">Modos de juego</string>
+    <string name="title_activity_quiz_d10">QuizD10</string>
+    <string name="todo">TODO</string>
+    <string name="creado_por">Creado por:</string>
+    <string name="sanchez_huerta_edgar_guillermo">Sanchez Huerta Edgar Guillermo</string>
+    <string name="tovar_espejo_mariana_josefina">Tovar Espejo Mariana Josefina</string>
+    <string name="pardo_alanis_arturo_isaac">Pardo Alanis Arturo Isaac</string>
+    <string name="hernandez_perez_ivan_isaac">Hernandez Perez Ivan Isaac</string>
+    <string name="agradecimientos_especiales">Agradecimientos especiales:</string>
+    <string name="dra_lilian_martinez_acosta">Dra. Lilian Martinez Acosta</string>
+    <string name="comunidad_del_grupo_1cm1_de_escom">Comunidad del grupo 1CM1 de ESCOM</string>
+    <string name="haz_obtenido_el_siguiente_puntaje">Haz obtenido el siguiente puntaje!!!</string>
+    <string name="textview">TextView</string>
+    <string name="inicio">Inicio</string>
+    <string name="formulario">Formulario</string>
+    <string name="haz_acabado_el_juego_exitosamente">Haz acabado el juego exitosamente!!!</string>
+    <string name="creditos">Creditos</string>
+    <string name="cual_es_la_integral_de">Cual es la integral de:</string>
+</resources>
